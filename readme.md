@@ -5,7 +5,7 @@
 
 ### :warning: This project isn't completed yet but working, feel free to contribute to this script and make it better.
 
-### To run this script, you need to install whiptail first
+### To run this script, you need to install "whiptail" first
 - To install whiptail on Debian, Ubuntu and Ubuntu-based distros: sudo apt-get install whiptail
 - To install whiptail on Fedora: sudo yum install newt
 - To install whiptail on Arch: sudo pacman -S newt
