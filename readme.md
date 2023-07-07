@@ -2,6 +2,7 @@
 <p align="center">
   <img src="dbms-bash.png">
 </p>
+
 ## This script is written by: Mahmoud Tarek (github.com/mahmoudtark25), for: Shell Scripting Course (ITI).
 
 ## This project isn't completed yet but working!
