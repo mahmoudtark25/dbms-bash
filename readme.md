@@ -1,4 +1,4 @@
-## A simple database management system using bash scripting and whiptail (for gui) running on Linux machines written for Shell Scripting Course (ITI).
+## A simple database management system using bash scripting and whiptail (for gui).
 <p align="center">
   <img src="dbms-bash.png">
 </p>
