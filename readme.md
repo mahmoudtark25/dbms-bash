@@ -5,7 +5,7 @@
 
 ### This script is written by: Mahmoud Tarek (github.com/mahmoudtark25), for: Shell Scripting Course (ITI).
 
-### This project isn't completed yet but working!
+### :warning: This project isn't completed yet but working!
 ### Feel free to contribute to this script and make it better!
 
 ### To run this script, you need to install whiptail first
